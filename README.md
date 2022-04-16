@@ -1,7 +1,7 @@
 # Network-Analysis-on-Graphs
 ### This repository contains analysis of different types of datasets which contain nodes and edges using Gephi. 
 ### The main focus is on deriving meaningful insights from the data such as number of communities, betweeness and others.
-### The file named-powergrid network analysis consists data on number of power transforms and power lines existing in the western Western States of the United States of America.
+### The file named-powergrid network analysis consists data on number of power transforms and power lines existing in the Western States of the United States of America.
 ### The nodes signify -  either a generator, a transformator or a substation 
 ### The egdes signify - power supply line
 ### nodes =	4,941 this means there are 4,941 transformers, generators or substations in the region.
